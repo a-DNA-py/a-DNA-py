@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @a-DNA-py aka Dhairya Pandya
-- 👀 I’m interested in UI design, App Development and Programming with Python and js.
-- 🌱 I’m currently learning MERN Stack Development
-- 💞️ I’m looking to collaborate on Django, MERN Stack or UI design projects
+- 👀 I’m interested in Microcontrollers, WebDev and GameDev.
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate on Django or Java projects.
 - 📫 Reach me through email
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I write poetry
