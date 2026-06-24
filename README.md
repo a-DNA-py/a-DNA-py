@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Dhairya Pandya!
+# Hello World, I'm Dhairya Pandya!
 
 *To expose the art in every science & the science of every art*
 
