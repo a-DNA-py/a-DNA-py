@@ -2,7 +2,7 @@
 
 # Hey, I'm Dhairya Pandya!
 
-*Building rockets, changing lives & curious about everything | Aspiring Quant Researcher*
+*To expose the art in every science & the science of every art*
 
 </div>
 
