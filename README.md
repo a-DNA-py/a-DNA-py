@@ -2,8 +2,6 @@
 
 # Hello World, I'm Dhairya Pandya!
 
-*To expose the art in every science & the science of every art*
-
 </div>
 
 ---
@@ -28,20 +26,6 @@ I’m 17 and here’s what I do.
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-
-**Learning next:** C · Assembly
-
----
-
-I founded the Indian Students’ Rocketry Association, secured ₹1.3 lakh in institutional funding, and launch model rockets from scratch. I co-founded the Jeevartan Foundation to fight hunger and environmental injustice in my own city. And I even build robots — and I genuinely love every second of it.
-
-None of these things are connected — except by my curiosity.
-
-I write poetry. I study psychology. I learn philosophy and law for fun. I find beauty in every field, and I refuse to leave any of them unexplored.
-
-My next chapter: Mathematics and Physics at university, then quantitative finance. Because as Simons said — you can teach a physicist finance, but not the other way around.
-
-*And when it all ends, I intend to leave the earth with a me-shaped dent.*
 
 ---
 
