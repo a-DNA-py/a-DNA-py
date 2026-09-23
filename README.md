@@ -6,7 +6,7 @@
 
 ---
 
-I’m 17 and here’s what I do.
+I'm 17 and I like making cool stuff
 
 ---
 
@@ -28,5 +28,13 @@ I’m 17 and here’s what I do.
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
 ---
+
+I've always loved making stuff and learning about new things.
+
+So, when I came across rocketry and found there's almost nothing for Indian school students, I founded the Indian Students’ Rocketry Association. We design, build, and launch model rockets from scratch, and we also secured ₹1.3 lakh in institutional funding to make it happen.
+
+I believe if students come together, a unique value is created, that results in a type of impact that adults can't bring. Thus, I co-founded the Jeevartan Foundation which is a group of students (mostly school students) trying to do good for society in any way we can. We've served over 7,000 meals, impacted more than 300 children, recycled over 120 kg of plastic and vaccinated 31 stray dogs. Though, what I'm proudest of is mentoring the next generation of Jeevartan's leaders, who will carry this work forward.
+
+Next, I'll pursue a major in mathematics, a subject I've loved for as long as I can remember. I'm excited to dive into research and make even cooler stuff.
 
 </div>
